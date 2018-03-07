@@ -1,0 +1,19 @@
+{
+  "name": "studyproj",
+  "version": "1.0.0",
+  "description": "自学nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^2.0.1",
+    "express": "^4.16.2",
+    "forever": "^0.15.3",
+    "mongoose": "^5.0.7",
+    "mysql": "^2.15.0",
+    "wafer-node-session": "^1.0.10"
+  }
+}
